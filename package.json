@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/organization1337/CypherDump/issues"
   },
-  "homepage": "https://github.com/organization1337/CypherDump#readme"
+  "homepage": "https://github.com/organization1337/CypherDump#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.21"
+  }
 }
