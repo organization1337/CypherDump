@@ -1,0 +1,19 @@
+{
+  "name": "cypherdump",
+  "version": "1.0.0",
+  "description": "A cli tool for opencypher based Graph DBs",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/organization1337/CypherDump.git"
+  },
+  "author": "Organization1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/organization1337/CypherDump/issues"
+  },
+  "homepage": "https://github.com/organization1337/CypherDump#readme"
+}
